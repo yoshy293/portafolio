@@ -20,4 +20,6 @@ function App() {
   );
 }
 
+// esto es un comentario
+
 export default App;
