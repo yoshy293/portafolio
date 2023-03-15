@@ -22,4 +22,6 @@ function App() {
 
 // esto es un comentario
 
+//modificando la rama del bobi desde mi pc
+
 export default App;
